@@ -3,7 +3,11 @@ GEOGO Full Stack Web Development Internship
 Assignment 4  
 CREATE API to get details of a single Post  
 UPDATE and DELETE a Post as well  
-CRUD operation using Node Js Express and MongoDB  
+CRUD operation using Node Js Express and MongoDB 
+
+############# Node Modules are not able to upload here   ########################
+############# just use npm init to get node modules in the folder  ###################
+ 
 
 const app = express()  
 
